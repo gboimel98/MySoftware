@@ -1,3 +1,3 @@
-def click:
-    print("click")
-click()
+def click(name):
+    print(f'click on "{name}"')
+click(gal)
